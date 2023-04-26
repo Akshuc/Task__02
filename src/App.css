@@ -1,0 +1,35 @@
+.main>div{
+
+    display:  flex;
+    flex-wrap: wrap;
+    margin: 50px;
+    
+}
+
+.main>div>button{
+    margin: 8px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+.main>h2{
+    position: relative;
+    left: 40px;
+    top: 40px;
+    
+}
+
+h3{
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+
+.Cards{
+    padding: 15px;
+
+}
